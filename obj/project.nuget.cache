@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "n1yY7R7dtRP5enpCDR08yMlp80ri9bEc/h7XPFR369V9nJIY/WNvhbUw7lSpKNvGjzW2MYSkSlTbRG5H5cjHng==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\MrAho\\Desktop\\LeveeQuerey\\LeveeQuerey.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\MrAho\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\MrAho\\.nuget\\packages\\system.net.http.json\\6.0.0\\system.net.http.json.6.0.0.nupkg.sha512",
+    "C:\\Users\\MrAho\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\MrAho\\.nuget\\packages\\system.text.encodings.web\\6.0.0\\system.text.encodings.web.6.0.0.nupkg.sha512",
+    "C:\\Users\\MrAho\\.nuget\\packages\\system.text.json\\6.0.0\\system.text.json.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
